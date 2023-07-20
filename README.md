@@ -1,7 +1,7 @@
 # Omnify
 There are many tools that are available for data analytics I am going to explore the provided datasets using python.
 # Google Ads Dataset
-This dataset consists of attributes such as week, compaign, Adgroup, Currency, Clicks, Impressions, Cost, Leads, Prospects, Payment, Payment date, Country
+This dataset consists of attributes such as week, compaign, Adgroup, Currency, Clicks, Impressions, Cost, Leads, Prospects, Payment, Payment date, Country.
 # - Create a combined report with all key metrics (esp: Spends and Returns %) in a weekly and monthly format. Decide the number of data fields you would like to showcase here.
 Packages used : Pandas, Matplotlib
 # Preprocessing : 
