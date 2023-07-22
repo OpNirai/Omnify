@@ -16,4 +16,19 @@ Packages used : Pandas
 we have to first convert the values in the paid column to some useful mathematical value that is we have to convert the string value into numeric value for calculating the most profitable channel.
 # Calculations :
 We have to first find the amount spent on the individual channels for that we have used the pivot table in the dataframe for storing the data in a organized form. Similarly we are creating the pivot table for amount earned on individual channel. Then by subtracting the money earned and money spent we can come to the conclusion of our question.
-
+# Q3-Which category/keyword is the most profitable
+Packages used : Pandas
+# Calculations :
+At first we are going to find the Cost for each of the channel for that we have used the pivot table concept on the python, similarly we have calculated the profit that is the payment that has been made to the channel. Then by finding the difference between each pivot table, the channel with highest profit can be found.
+# Q4-Look for insights by analyzing data points on time series graphs
+Packages used : Pandas, Matplotlib, sns
+# Calculations :
+At first we are going to analyze each and data with respect to that of the date that has been provided in the dataset.
+# Visualizations :
+For visualization we have used the packages such as maatplotlib and sns heatplots by which we have plotted many graphs for visualization and extracting insights.
+# Q5-Analyse the Impact of geography
+Packages used : Pandas, Matplotlib, sns
+# Calculations :
+At first we are going to analyze each and data with respect to that of the geography that is the place that has been provided in the dataset.
+# Visualizations :
+For visualization we have used the packages such as maatplotlib and sns heatplots by which we have plotted many graphs for visualization and extracting insights.
